@@ -5,7 +5,7 @@ export default function AuthHeader() {
     <header className="flex-1 flex mb-auto">
       <div className="flex items-center justify-between h-16 md:h-20">
         {/* Logo */}
-        <Link className="block group" href="/" aria-label="Cruip">
+        <Link className="block group" href="/" aria-label="Michigan Web Works">
           <svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
             <path
               className="fill-blue-600 group-hover:fill-blue-500 transform duration-150 ease-in-out"

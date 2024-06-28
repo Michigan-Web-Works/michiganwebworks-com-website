@@ -8,7 +8,7 @@ export default function Header() {
           {/* Site branding */}
           <div className="shrink-0 mr-4">
             {/* Logo */}
-            <Link className="block group" href="/" aria-label="Cruip">
+            <Link className="block group" href="/" aria-label="Michigan Web Works">
               <svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
                 <path
                   className="fill-blue-100 group-hover:fill-white transform duration-150 ease-in-out"
